@@ -9,15 +9,15 @@ CREATE TABlE user_db(
 	daar varchar(50)
 )DEFAULT CHARSET=utf8;
 
-»ç¿ëÀÚ Á¤º¸: ÀÌ¸§ ÁÖ¼Ò ÀüÈ­¹ø¼Ò ¼ºº° ºñ¹ø ¸Ô´Â¾à ÀÌ¸ŞÀÏ
-½º¸¶Æ® ¿öÄ¡: ½É¹Ú¼ö À§Ä¡
-½ºÇÁ¸µ 
+ì‚¬ìš©ì ì •ë³´: ì´ë¦„ ì£¼ì†Œ ì „í™”ë²ˆì†Œ ì„±ë³„ ë¹„ë²ˆ ë¨¹ëŠ”ì•½ ì´ë©”ì¼
+ìŠ¤ë§ˆíŠ¸ ì›Œì¹˜: ì‹¬ë°•ìˆ˜ ìœ„ì¹˜
+ìŠ¤í”„ë§ 
 /////////////////////////////////////////
-jspÆäÀÌÁö ÁÖ¼Ò
+jspí˜ì´ì§€ ì£¼ì†Œ
 http://117.17.34.222:9090/siren/test
 /////////////////////////////////////////
 https://jayviii.tistory.com/21?category=996149
-°£´ÜÇÑ ¸¶¸®¾Ædb È¸¿ø°¡ÀÔ
+ê°„ë‹¨í•œ ë§ˆë¦¬ì•„db íšŒì›ê°€ì…
 https://alpreah.tistory.com/80
 
 https://all-record.tistory.com/175
@@ -31,3 +31,6 @@ id = ${user_db.userid }<br>
 		addr = ${user_db.addr }<br>
 		user_password = ${user_db.user_password }<br>
 		user_email = ${user_db.user_email }<br>
+		
+		https://derveljunit.tistory.com/10 ì•ˆë“œë¡œì´ë“œì™€ ì•„íŒŒì¹˜ ì—°ë™
+
