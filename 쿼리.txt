@@ -32,5 +32,8 @@ id = ${user_db.userid }<br>
 		user_password = ${user_db.user_password }<br>
 		user_email = ${user_db.user_email }<br>
 		
-		https://derveljunit.tistory.com/10 안드로이드와 아파치 연동
+		
+		안드로이드와 아파치 연동
+		https://derveljunit.tistory.com/10 
+		http://blog.naver.com/PostView.nhn?blogId=rain483&logNo=220814139493
 
