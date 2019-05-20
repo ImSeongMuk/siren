@@ -36,4 +36,5 @@ id = ${user_db.userid }<br>
 		안드로이드와 아파치 연동
 		https://derveljunit.tistory.com/10 
 		http://blog.naver.com/PostView.nhn?blogId=rain483&logNo=220814139493
-
+안드로이드 
+https://m.blog.naver.com/PostView.nhn?blogId=cosmosjs&logNo=221208701289&proxyReferer=https%3A%2F%2Fwww.google.com%2F
