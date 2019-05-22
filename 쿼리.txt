@@ -50,3 +50,5 @@ http://esocwiki.blogspot.com/2018/01/html-html-android-html-parse-read-html.html
 
 스프링에서 json으로 데이터 보내기
 https://blog.hanumoka.net/2018/04/29/spring-20180429-spring-controller-return-json/
+
+https://altongmon.tistory.com/745
