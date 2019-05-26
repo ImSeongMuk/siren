@@ -12,5 +12,7 @@ http://61.84.24.251:48080/
 
 스프링 json 형태로 값 받기 (완료) 
 https://dololak.tistory.com/625
+https://blog.hanumoka.net/2018/04/29/spring-20180429-spring-controller-return-json/
+http://www.joshi.co.kr/index.php?mid=SPRING&document_srl=305800
 
 톰캣으로 파일 배포 ()
