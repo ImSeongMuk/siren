@@ -16,6 +16,9 @@ https://blog.hanumoka.net/2018/04/29/spring-20180429-spring-controller-return-js
 http://www.joshi.co.kr/index.php?mid=SPRING&document_srl=305800
 
 톰캣으로 파일 배포 ()
+https://okky.kr/article/316146
+https://victorybird.tistory.com/82  잘나와있음
+https://yulsay.tistory.com/30
 
 CREATE TABLE `user_db` (
 	`userid` VARCHAR(10) NOT NULL,
