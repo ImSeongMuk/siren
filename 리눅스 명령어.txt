@@ -1,0 +1,13 @@
+ufw allow 20/tcp 포트 허용 명령어
+systemctl status(restart,start) (vsftpd,tomcat,appche,ssh)등  재실행 및 상태 확인
+vi /etc/vsftpd.conf 문서 편집 :q저장 않함 :w저장
+
+git pull
+git commit
+git push - u origin master
+이름
+비번
+
+git 폴더 가져오기
+https://webclub.tistory.com/317
+https://dejavuwing.tistory.com/entry/Ubuntu-GitHub-%EC%82%AC%EC%9A%A9%EB%B2%95
