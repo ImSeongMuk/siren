@@ -25,7 +25,7 @@ https://programist.tistory.com/entry/MySQL-MariaDB-%EC%99%B8%EB%B6%80-%EC%A0%91%
 마리아 db 접속 성공 하지만 jsp db연동 
 우분투 18.04 마리아 db 설치
 https://coldmater.tistory.com/170
-
+https://coldmater.tistory.com/170
 
 
 CREATE TABLE `user_db` (
