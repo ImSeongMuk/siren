@@ -1,13 +1,14 @@
-ufw allow 20/tcp Æ÷Æ® Çã¿ë ¸í·É¾î
-systemctl status(restart,start) (vsftpd,tomcat,appche,ssh)µî  Àç½ÇÇà ¹× »óÅÂ È®ÀÎ
-vi /etc/vsftpd.conf ¹®¼­ ÆíÁı :qÀúÀå ¾ÊÇÔ :wÀúÀå
+ufw allow 20/tcp í¬íŠ¸ í—ˆìš© ëª…ë ¹ì–´
+systemctl status(restart,start) (vsftpd,tomcat,appche,ssh)ë“±  ì¬ì‹¤í–‰ ë° ìƒíƒœ í™•ì¸
+vi /etc/vsftpd.conf ë¬¸ì„œ í¸ì§‘ :qì €ì¥ ì•Ší•¨ :wì €ì¥
 
+/works/ubuntu/
 git pull
 git commit
 git push - u origin master
-ÀÌ¸§
-ºñ¹ø
+ì´ë¦„
+ë¹„ë²ˆ
 
-git Æú´õ °¡Á®¿À±â
+git í´ë” ê°€ì ¸ì˜¤ê¸°
 https://webclub.tistory.com/317
 https://dejavuwing.tistory.com/entry/Ubuntu-GitHub-%EC%82%AC%EC%9A%A9%EB%B2%95
