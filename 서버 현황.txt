@@ -26,6 +26,8 @@ https://programist.tistory.com/entry/MySQL-MariaDB-%EC%99%B8%EB%B6%80-%EC%A0%91%
 우분투 18.04 마리아 db 설치
 https://coldmater.tistory.com/170
 https://coldmater.tistory.com/170
+bd 권한 
+https://codeday.me/ko/qa/20190319/103749.html
 
 
 CREATE TABLE `user_db` (
