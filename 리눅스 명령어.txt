@@ -8,6 +8,7 @@ git commit
 git push - u origin master
 이름
 비번
+ cp siren.war /var/lib/tomcat9/webapps/
 
 git 폴더 가져오기
 https://webclub.tistory.com/317
