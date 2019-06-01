@@ -1,3 +1,5 @@
+코틀린 post
+https://stackoverflow.com/questions/49188722/how-to-http-request-by-post-method-with-kotlin
 우분투에 마리아db 설치 \n
 아파치 및 톰켓 설치\n
 톰캐에 war 배포\n
