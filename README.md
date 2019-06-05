@@ -1,3 +1,5 @@
+스프링 프레임워크 object 받기
+https://pjh3749.tistory.com/134
 안드로이드 스프링 웹서버 통신
 https://rongscodinghistory.tistory.com/27
 
