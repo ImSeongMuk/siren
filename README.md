@@ -1,3 +1,8 @@
+https://seonhyungjo.github.io/Spring-SMTP/
+     
+https://m.blog.naver.com/PostView.nhn?blogId=racoon_z&logNo=220695568817&proxyReferer=https%3A%2F%2Fwww.google.com%2F
+이메일 보내기
+
 스프링 프레임워크 object 받기
 https://pjh3749.tistory.com/134
 안드로이드 스프링 웹서버 통신
